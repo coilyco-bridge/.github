@@ -22,10 +22,10 @@ Code, issues, discussions, and CI happen there. This GitHub presence is a name-s
 - [`benchmark`](https://github.com/topics/benchmark) - `coilyco-bridge/agentic-os-hardware`
 - [`comfyui`](https://github.com/topics/comfyui) - `coilyco-bridge/agentic-os-xxx`
 - [`data-visualization`](https://github.com/topics/data-visualization) - `coilyco-bridge/atlas`
-- [`devops`](https://github.com/topics/devops) - [`coilyco-bridge/.github`](https://github.com/coilyco-bridge/.github), `coilyco-bridge/agentic-os-kai`, `coilyco-bridge/atlas`, `coilyco-bridge/deploy`
-- [`documentation`](https://github.com/topics/documentation) - [`coilyco-bridge/.github`](https://github.com/coilyco-bridge/.github)
+- [`devops`](https://github.com/topics/devops) - `coilyco-bridge/.github`, `coilyco-bridge/agentic-os-kai`, `coilyco-bridge/atlas`, `coilyco-bridge/deploy`
+- [`documentation`](https://github.com/topics/documentation) - `coilyco-bridge/.github`
 - [`generative-ai`](https://github.com/topics/generative-ai) - `coilyco-bridge/agentic-os-xxx`
-- [`github-profile`](https://github.com/topics/github-profile) - [`coilyco-bridge/.github`](https://github.com/coilyco-bridge/.github)
+- [`github-profile`](https://github.com/topics/github-profile) - `coilyco-bridge/.github`
 - [`helm`](https://github.com/topics/helm) - `coilyco-bridge/deploy`
 - [`homelab`](https://github.com/topics/homelab) - `coilyco-bridge/agentic-os-hardware`, `coilyco-bridge/deploy`
 - [`kubernetes`](https://github.com/topics/kubernetes) - `coilyco-bridge/deploy`
@@ -36,12 +36,12 @@ Code, issues, discussions, and CI happen there. This GitHub presence is a name-s
 
 ## Repos → tags
 
-- [`coilyco-bridge/.github`](https://github.com/coilyco-bridge/.github) - [`devops`](https://github.com/topics/devops), [`documentation`](https://github.com/topics/documentation), [`github-profile`](https://github.com/topics/github-profile)
-- `coilyco-bridge/agentic-os-hardware` - [`benchmark`](https://github.com/topics/benchmark), [`homelab`](https://github.com/topics/homelab), [`llm`](https://github.com/topics/llm), [`machine-learning`](https://github.com/topics/machine-learning)
-- `coilyco-bridge/agentic-os-kai` - [`ai-agents`](https://github.com/topics/ai-agents), [`automation`](https://github.com/topics/automation), [`devops`](https://github.com/topics/devops), [`mcp`](https://github.com/topics/mcp)
-- `coilyco-bridge/agentic-os-xxx` - [`ai-agents`](https://github.com/topics/ai-agents), [`comfyui`](https://github.com/topics/comfyui), [`generative-ai`](https://github.com/topics/generative-ai), [`machine-learning`](https://github.com/topics/machine-learning)
-- `coilyco-bridge/atlas` - [`data-visualization`](https://github.com/topics/data-visualization), [`devops`](https://github.com/topics/devops), [`static-site`](https://github.com/topics/static-site)
-- `coilyco-bridge/deploy` - [`devops`](https://github.com/topics/devops), [`helm`](https://github.com/topics/helm), [`homelab`](https://github.com/topics/homelab), [`kubernetes`](https://github.com/topics/kubernetes)
+- [`coilyco-bridge/.github`](https://github.com/coilyco-bridge/.github) - `devops`, `documentation`, `github-profile`
+- `coilyco-bridge/agentic-os-hardware` - `benchmark`, `homelab`, `llm`, `machine-learning`
+- `coilyco-bridge/agentic-os-kai` - `ai-agents`, `automation`, `devops`, `mcp`
+- `coilyco-bridge/agentic-os-xxx` - `ai-agents`, `comfyui`, `generative-ai`, `machine-learning`
+- `coilyco-bridge/atlas` - `data-visualization`, `devops`, `static-site`
+- `coilyco-bridge/deploy` - `devops`, `helm`, `homelab`, `kubernetes`
 
 ## See also
 
