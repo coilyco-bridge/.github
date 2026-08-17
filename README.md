@@ -10,3 +10,9 @@ for `coilyco-bridge`.
 
 Canonical development happens on
 [Forgejo](https://forgejo.coilysiren.me/coilyco-bridge/.github).
+
+## See also
+
+- [AGENTS.md](AGENTS.md) - operating rules for this repository.
+- [docs/FEATURES.md](docs/FEATURES.md) - what it provides.
+- [.ward/ward.yaml](.ward/ward.yaml) - catalog metadata.
